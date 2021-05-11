@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/interra_feed/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/interra_feed/static/js/main.7fcf6ca1.chunk.js",
+    "main.js.map": "/interra_feed/static/js/main.7fcf6ca1.chunk.js.map",
+    "runtime-main.js": "/interra_feed/static/js/runtime-main.8c2472e9.js",
+    "runtime-main.js.map": "/interra_feed/static/js/runtime-main.8c2472e9.js.map",
+    "static/js/2.5528dfaf.chunk.js": "/interra_feed/static/js/2.5528dfaf.chunk.js",
+    "static/js/2.5528dfaf.chunk.js.map": "/interra_feed/static/js/2.5528dfaf.chunk.js.map",
+    "index.html": "/interra_feed/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/interra_feed/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5528dfaf.chunk.js.LICENSE.txt": "/interra_feed/static/js/2.5528dfaf.chunk.js.LICENSE.txt",
+    "static/media/Allosaurus.115568b7.jpg": "/interra_feed/static/media/Allosaurus.115568b7.jpg",
+    "static/media/Chimpanzees.f827bb36.jpg": "/interra_feed/static/media/Chimpanzees.f827bb36.jpg",
+    "static/media/DRT.75d286b5.jpg": "/interra_feed/static/media/DRT.75d286b5.jpg",
+    "static/media/Goats.8aaeb229.jpg": "/interra_feed/static/media/Goats.8aaeb229.jpg",
+    "static/media/OrcaShow.26c21d90.jpg": "/interra_feed/static/media/OrcaShow.26c21d90.jpg",
+    "static/media/WPI_Inst_Prim_FulClr.01c7d008.png": "/interra_feed/static/media/WPI_Inst_Prim_FulClr.01c7d008.png",
+    "static/media/WildHorses.170c08b4.jpg": "/interra_feed/static/media/WildHorses.170c08b4.jpg",
+    "static/media/Zebras&Gazelles.5292b163.jpg": "/interra_feed/static/media/Zebras&Gazelles.5292b163.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c2472e9.js",
+    "static/js/2.5528dfaf.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7fcf6ca1.chunk.js"
+  ]
+}
